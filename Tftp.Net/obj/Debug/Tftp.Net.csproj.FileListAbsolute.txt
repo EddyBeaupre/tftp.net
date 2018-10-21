@@ -1,0 +1,5 @@
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net\bin\Debug\Tftp.Net.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net\bin\Debug\Tftp.Net.pdb
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net\obj\Debug\Tftp.Net.csproj.CoreCompileInputs.cache
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net\obj\Debug\Tftp.Net.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net\obj\Debug\Tftp.Net.pdb

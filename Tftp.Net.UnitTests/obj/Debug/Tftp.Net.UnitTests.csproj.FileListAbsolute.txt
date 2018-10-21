@@ -1,0 +1,11 @@
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\obj\Debug\Tftp.Net.UnitTests.csprojAssemblyReference.cache
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\obj\Debug\Tftp.Net.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\Tftp.Net.UnitTests.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\Tftp.Net.UnitTests.pdb
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\Tftp.Net.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\Tftp.Net.pdb
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\obj\Debug\Tftp.Net.UnitTests.csproj.CopyComplete
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\obj\Debug\Tftp.Net.UnitTests.dll
+C:\Users\eddy\Source\Repos\tftp.net\Tftp.Net.UnitTests\obj\Debug\Tftp.Net.UnitTests.pdb
